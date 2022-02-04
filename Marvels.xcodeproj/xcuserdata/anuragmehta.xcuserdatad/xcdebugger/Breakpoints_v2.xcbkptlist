@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "65C519B2-27E5-4D7B-A810-2548159DC8D0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "393E3BBE-F70B-4F01-9A29-9723D8B9E66F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Marvels/ViewModels/CharacterDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "fetchCharacterDetailData(id:completionBlock:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "18E143BF-B355-436A-B1B0-C03DCD4A195D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Marvels/ViewModels/CharacterDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "fetchCharacterDetailData(id:completionBlock:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "18E143BF-B355-436A-B1B0-C03DCD4A195D - e9b8f717869c8480"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Foundation.Data, Swift.Error&gt;) -&gt; () in Marvels.CharacterDetailViewModel.fetchCharacterDetailData(id: Swift.String, completionBlock: (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Marvels"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anuragmehta/Documents/Marvels/Marvels/ViewModels/CharacterDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "18E143BF-B355-436A-B1B0-C03DCD4A195D - 34a48d95ec927369"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[2] = Owned To Guaranteed&gt; of function signature specialization &lt;Arg[1] = [Closure Propagated : closure #1 (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; () in Marvels.CharacterDetailViewController.initViewModel() -&gt; (), Argument Types : [{ var weak Swift.Optional&lt;Marvels.CharacterDetailViewController&gt; }]&gt; of Marvels.CharacterDetailViewModel.fetchCharacterDetailData(id: Swift.String, completionBlock: (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Marvels"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anuragmehta/Documents/Marvels/Marvels/ViewModels/CharacterDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "18E143BF-B355-436A-B1B0-C03DCD4A195D - 11b6a00875bcd58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[2] = Dead, Arg[4] = Owned To Guaranteed&gt; of function signature specialization &lt;Arg[4] = [Closure Propagated : closure #1 (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; () in Marvels.CharacterDetailViewController.initViewModel() -&gt; (), Argument Types : [{ var weak Swift.Optional&lt;Marvels.CharacterDetailViewController&gt; }]&gt; of function signature specialization &lt;Arg[2] = [Closure Propagated : closure #1 (Swift.Result&lt;Foundation.Data, Swift.Error&gt;) -&gt; () in Marvels.CharacterDetailViewModel.fetchCharacterDetailData(id: Swift.String, completionBlock: (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; ()) -&gt; (), Argument Types : [{ var weak Swift.Optional&lt;Marvels.CharacterDetailViewModel&gt; }@escaping @callee_guaranteed (@guaranteed Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; ()]&gt; of Marvels.HTTPManager.get(urlString: Swift.String, parameters: Swift.Dictionary&lt;Swift.String, Swift.String&gt;, completionBlock: (Swift.Result&lt;Foundation.Data, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Marvels"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anuragmehta/Documents/Marvels/Marvels/ViewModels/CharacterDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "408">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8610C8D-CDB3-4730-97BC-9B68CF8D265F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Marvels/ViewModels/CharacterDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "fetchCharacterDetailData(id:completionBlock:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA192FF4-ACAD-45F9-BC61-5A0CF95743E1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Marvels/ViewModels/CharacterDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "fetchCharacterDetailData(id:completionBlock:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "33E50C52-F0EF-4C0B-8476-E5F6D4073686"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Marvels/ViewModels/CharacterDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "fetchCharacterDetailData(id:completionBlock:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3A757F7-9B3B-4D28-8F3B-0C01633436E8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Marvels/APIService/HTTPManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "get(urlString:parameters:completionBlock:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A3A757F7-9B3B-4D28-8F3B-0C01633436E8 - 48e2990230b9773b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[2] = Dead, Arg[4] = Owned To Guaranteed&gt; of function signature specialization &lt;Arg[4] = [Closure Propagated : closure #1 (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; () in Marvels.CharactersViewController.initViewModel() -&gt; (), Argument Types : [{ var weak Swift.Optional&lt;Marvels.CharactersViewController&gt; }]&gt; of function signature specialization &lt;Arg[2] = [Closure Propagated : closure #1 (Swift.Result&lt;Foundation.Data, Swift.Error&gt;) -&gt; () in Marvels.CharactersViewModel.fetchCharactersData(completionBlock: (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; ()) -&gt; (), Argument Types : [{ var weak Swift.Optional&lt;Marvels.CharactersViewModel&gt; }@escaping @callee_guaranteed (@guaranteed Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; ()]&gt; of Marvels.HTTPManager.get(urlString: Swift.String, parameters: Swift.Dictionary&lt;Swift.String, Swift.String&gt;, completionBlock: (Swift.Result&lt;Foundation.Data, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Marvels"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anuragmehta/Documents/Marvels/Marvels/APIService/HTTPManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "A3A757F7-9B3B-4D28-8F3B-0C01633436E8 - 9d82e32b7dc8afab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[2] = Dead, Arg[4] = Owned To Guaranteed&gt; of function signature specialization &lt;Arg[4] = [Closure Propagated : closure #1 (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; () in Marvels.CharacterDetailViewController.initViewModel() -&gt; (), Argument Types : [{ var weak Swift.Optional&lt;Marvels.CharacterDetailViewController&gt; }]&gt; of function signature specialization &lt;Arg[2] = [Closure Propagated : closure #1 (Swift.Result&lt;Foundation.Data, Swift.Error&gt;) -&gt; () in Marvels.CharacterDetailViewModel.fetchCharacterDetailData(id: Swift.String, completionBlock: (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; ()) -&gt; (), Argument Types : [{ var weak Swift.Optional&lt;Marvels.CharacterDetailViewModel&gt; }@escaping @callee_guaranteed (@guaranteed Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; ()]&gt; of Marvels.HTTPManager.get(urlString: Swift.String, parameters: Swift.Dictionary&lt;Swift.String, Swift.String&gt;, completionBlock: (Swift.Result&lt;Foundation.Data, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Marvels"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anuragmehta/Documents/Marvels/Marvels/APIService/HTTPManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "296">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BA1DF317-6268-4861-BB4D-867F8D6BE573"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Marvels/APIService/HTTPManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "get(urlString:parameters:completionBlock:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BA1DF317-6268-4861-BB4D-867F8D6BE573 - 45cfd520166a8901"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Marvels.HTTPManager.get(urlString: Swift.String, parameters: Swift.Dictionary&lt;Swift.String, Swift.String&gt;, completionBlock: (Swift.Result&lt;Foundation.Data, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Marvels"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anuragmehta/Documents/Marvels/Marvels/APIService/HTTPManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "BA1DF317-6268-4861-BB4D-867F8D6BE573 - 48e2990230b9752b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[2] = Dead, Arg[4] = Owned To Guaranteed&gt; of function signature specialization &lt;Arg[4] = [Closure Propagated : closure #1 (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; () in Marvels.CharactersViewController.initViewModel() -&gt; (), Argument Types : [{ var weak Swift.Optional&lt;Marvels.CharactersViewController&gt; }]&gt; of function signature specialization &lt;Arg[2] = [Closure Propagated : closure #1 (Swift.Result&lt;Foundation.Data, Swift.Error&gt;) -&gt; () in Marvels.CharactersViewModel.fetchCharactersData(completionBlock: (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; ()) -&gt; (), Argument Types : [{ var weak Swift.Optional&lt;Marvels.CharactersViewModel&gt; }@escaping @callee_guaranteed (@guaranteed Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; ()]&gt; of Marvels.HTTPManager.get(urlString: Swift.String, parameters: Swift.Dictionary&lt;Swift.String, Swift.String&gt;, completionBlock: (Swift.Result&lt;Foundation.Data, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Marvels"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anuragmehta/Documents/Marvels/Marvels/APIService/HTTPManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "856">
+               </Location>
+               <Location
+                  uuid = "BA1DF317-6268-4861-BB4D-867F8D6BE573 - 9d82e32b7dc8adbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[2] = Dead, Arg[4] = Owned To Guaranteed&gt; of function signature specialization &lt;Arg[4] = [Closure Propagated : closure #1 (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; () in Marvels.CharacterDetailViewController.initViewModel() -&gt; (), Argument Types : [{ var weak Swift.Optional&lt;Marvels.CharacterDetailViewController&gt; }]&gt; of function signature specialization &lt;Arg[2] = [Closure Propagated : closure #1 (Swift.Result&lt;Foundation.Data, Swift.Error&gt;) -&gt; () in Marvels.CharacterDetailViewModel.fetchCharacterDetailData(id: Swift.String, completionBlock: (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; ()) -&gt; (), Argument Types : [{ var weak Swift.Optional&lt;Marvels.CharacterDetailViewModel&gt; }@escaping @callee_guaranteed (@guaranteed Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; ()]&gt; of Marvels.HTTPManager.get(urlString: Swift.String, parameters: Swift.Dictionary&lt;Swift.String, Swift.String&gt;, completionBlock: (Swift.Result&lt;Foundation.Data, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Marvels"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anuragmehta/Documents/Marvels/Marvels/APIService/HTTPManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "856">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4E5D9D88-8A66-4EAD-9266-3BB51674B773"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Marvels/APIService/HTTPManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "get(urlString:parameters:completionBlock:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C587227E-7C82-464D-9991-56697B7D04AB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Marvels/APIService/HTTPManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "get(urlString:parameters:completionBlock:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D5309D9E-1D96-4E9A-8300-68635AB4A718"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Marvels/APIService/HTTPManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "get(urlString:parameters:completionBlock:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D16A2B0C-1399-46B9-A5EE-BF5D3EA27E4F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Marvels/ViewControllers/CharacterDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "refreshCharacterDetails()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
