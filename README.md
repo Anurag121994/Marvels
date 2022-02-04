@@ -38,7 +38,7 @@ This app has a bunch of unit tests. The networking model, as well as the models 
 - **Clone**: First, clone the repository with the 'clone' command.
 
 ```
-$ git clone git@github.com:drogel/Marvel.git
+$ git clone git@github.com:Anurag121994/Marvels.git
 ```
 
 - **Marvel API keys**: Set your Marvel API keys as environment variables. Go to schemes, Marvel, and select Edit Scheme. Then, insert the environment variables into Run option -> Arguments -> Environment Variables.
