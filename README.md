@@ -15,7 +15,7 @@ This project has been built using UIKit and no third party dependencies.
 
 <p align="center">
   <img src="./Images/Characters.png" height="512">
-  <img src="./Images/CharacterDetail.png" height="512">
+  <img src="./Images/CharacterDetails.png" height="512">
 </p>
 
 
@@ -43,6 +43,6 @@ $ git clone git@github.com:drogel/Marvel.git
 
 - **Marvel API keys**: Set your Marvel API keys as environment variables. Go to schemes, Marvel, and select Edit Scheme. Then, insert the environment variables into Run option -> Arguments -> Environment Variables.
 <p align="center">
-<img src="./Images/HowToEditScheme.png"> <img src="./Images/HowToAPIKeys.png"> 
+<img src="./Images/HowToEditScheme.png"> <img src="./Images/HowToEnterAPIKeys.png"> 
 </p>
 
